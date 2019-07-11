@@ -1,12 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 </head>
 <body>
 
-<h1>Holberton</h1>
-<p>Holberton</p>
+<div class="jumbotron">
+<center>
+  Hello
+</center>
+</div>
+
+<div class="row" style="background-color:blue;height:200px;">
+  <div class="col">
+    Bingo
+  </div>
+</div>
 
 </body>
 </html>
